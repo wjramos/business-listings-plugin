@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Admin View
+ * Public View
  */
 
 ?>
