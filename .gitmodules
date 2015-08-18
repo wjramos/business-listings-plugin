@@ -1,0 +1,6 @@
+[submodule "includes/custom_meta/cmb2"]
+	path = includes/custom_meta/cmb2
+	url = git@github.com:WebDevStudios/CMB2.git
+[submodule "includes/custom_meta/cmb_field_map"]
+	path = includes/custom_meta/cmb_field_map
+	url = git@github.com:mustardBees/cmb_field_map.git

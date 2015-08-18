@@ -21,7 +21,7 @@ class Logik_Business_Listings_Loader {
         $this->actions = $this->add( $this->actions, $hook, $component, $callback, $priority, $accepted_args );
     }
 
-    /* Add new Filters and register*/
+    /* Add new Filters and register */
     public function add_filter( $hook, $component, $callback, $priority = 10, $accepted_args = 1 ) {
         $this->filters = $this->add( $this->filters, $hook, $component, $callback, $priority, $accepted_args );
     }
